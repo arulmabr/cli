@@ -1,4 +1,6 @@
-# My first research repo
+# CLI Practice
+
+Class starter: **[github.com/arulmabr/cli](https://github.com/arulmabr/cli)**.
 
 A small COMPSS 211A practice project for command-line basics, Python scripts, Git, and GitHub Pages. About 45–60 minutes, plus setup and questions.
 
@@ -6,7 +8,7 @@ The six campus resources in this project are **fictional practice data**. They a
 
 ## Start here
 
-1. Make your own copy on GitHub: **Use this template → Create a new repository** if the template button is available. Otherwise use **Fork**. Give your copy a name such as `my-first-research-repo`. A public copy is the simplest route for the Pages exercise; only use the supplied fictional content.
+1. Make your own copy on GitHub: **Use this template → Create a new repository**. Give your copy a short name such as `cli-practice`. A public copy is the simplest route for the Pages exercise; only use the supplied fictional content.
 2. Clone **your copy** with GitHub Desktop, then open it in VS Code. Do not edit the instructor's original.
 3. In VS Code, open **Terminal → New Terminal**. On Windows, select **Git Bash**. These commands are for Bash/Zsh, not Windows Command Prompt.
 4. From the repository folder, check:
@@ -26,7 +28,7 @@ Downloading a ZIP lets you inspect the files, but does not give you Git history 
 ## What is here?
 
 ```text
-my-first-research-repo/
+cli-practice/
 ├── README.md              ← start here
 ├── PRACTICE.md            ← guided activities
 ├── data/
